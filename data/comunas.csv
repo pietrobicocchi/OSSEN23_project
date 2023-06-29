@@ -1,0 +1,67 @@
+comuna name,comuna_index,municipality,muni_index,comuna longitude,comuna latitude,Macrozona _shapefile
+ Itagui-Comuna 06                        ' ,1,'Itagui',8,-75.61493,6.176629,1
+    Itagui-Comuna 05                        ',2,'Itagui',8,-75.60698,6.180733,2
+    Urbana La Estrella                      ' ,3,'La Estrella',9,-75.63781,6.142994,25
+    Bello-Comuna 06                         ',4,'Bello',3,-75.56693,6.352998,6
+    Bello-Comuna 05                         ',5,'Bello',3,-75.56992,6.341258,5
+    Bello-Comuna 07                         ',6,'Bello',3,-75.55309,6.347369,9
+    Bello-Comuna 04                         ',7,'Bello',3,-75.55838,6.335901,10
+    Bello-Comuna 03                         ',8,'Bello',3,-75.56331,6.326457,8
+    Manrique                                ',9,'Medellin',1,-75.54477,6.273081,13
+    Itagui-Comuna 04                        ',10,'Itagui',8,-75.59373,6.186925,3
+    Urbana Barbosa                          ' ,11,'Barbosa',2,-75.3329,6.436898,26
+    Bello-Comuna 10                         ',12,'Bello',3,-75.5426,6.328917,29
+    Santa Cruz                              ',13,'Medellin',1,-75.55453,6.298424,33
+    Urbana Copacabana                       ',14,'Copacabana',5,-75.50869,6.346665,35
+    Bello-Comuna 08                         ' ,15,'Bello',3,-75.54239,6.342176,36
+    Bello-Comuna 09                         ',16,'Bello',3,-75.52599,6.344567,37
+    Bello-Comuna 01                         ',17,'Bello',3,-75.58052,6.315146,38
+    Bello-Comuna 12                         ' ,18,'Bello',3,-75.5303,6.300397,39
+    Bello-Comuna 11                         ',19,'Bello',3,-75.55032,6.314777,34
+    Rural Bello                             ' ,20,'Bello',3,-75.59664,6.363899,40
+    Rural Barbosa                           ' ,21,'Barbosa',2,-75.32944,6.443242,41
+    Rural Copacabana                        ' ,22,'Copacabana',5,-75.50019,6.352229,42
+    Corregimiento San Sebastian de Pal Prado' ,23,'Medellin',1,-75.68934,6.327589,44
+    Corregimiento San Cristobal             ' ,24,'Medellin',1,-75.64056,6.290728,45
+    Corregimiento Altavista                 ' ,25,'Medellin',1,-75.63531,6.227312,46
+    Corregimiento San Antonio de Prado      ' ,26,'Medellin',1,-75.67336,6.216092,48
+    Rural Itagui                            ' ,27,'Itagui',8,-75.61716,6.187657,49
+    Zona 01                                 ' ,28,'Envigado',6,-75.59421,6.174924,51
+    Zona 08                                 ' ,29,'Envigado',6,-75.59567,6.166913,52
+    Zona 07                                 ' ,30,'Envigado',6,-75.5932,6.15937,53
+    Zona 06                                 ' ,31,'Envigado',6,-75.58208,6.153829,54
+    Zona 05                                 ' ,32,'Envigado',6,-75.5729,6.161145,55
+    Zona 03                                 ' ,33,'Envigado',6,-75.578,6.174295,56
+    Zona 09                                 ',34,'Envigado',6,-75.58423,6.170075,57
+    Zona 02                                 ',35,'Envigado',6,-75.58531,6.178944,58
+    Zona 04                                 ',36,'Envigado',6,-75.56836,6.174095,59
+    Rural 03                                ',37,'Envigado',6,-75.55718,6.141368,60
+    Rural 01                                ',38,'Envigado',6,-75.51541,6.171961,61
+    Rural 02                                ',39,'Envigado',6,-75.53229,6.146406,62
+    Rural 04                                ',40,'Envigado',6,-75.57265,6.124893,63
+    Urbana Sabaneta                         ',41,'Sabaneta',10,-75.61651,6.151966,64
+    Rural Sabaneta                          ',42,'Sabaneta',10,-75.60763,6.134419,65
+    Laureles-Estadio                        ',43,'Medellin',1,-75.59183,6.25055,21
+    Itagui-Comuna 01                        ',44,'Itagui',8,-75.60852,6.170023,23
+    Itagui-Comuna 02                        ',45,'Itagui',8,-75.62282,6.162171,7
+    Guayabal                                ',46,'Medellin',1,-75.58639,6.213149,14
+    El Poblado                              ',47,'Medellin',1,-75.56459,6.201689,12
+    Belen                                   ',48,'Medellin',1,-75.59982,6.225082,16
+    La America                              ' ,49,'Medellin',1,-75.60612,6.254203,18
+    San Javier                              ',50,'Medellin',1,-75.61557,6.259306,22
+    Aranjuez                                ',51,'Medellin',1,-75.56157,6.276205,17
+    Castilla                                ',52,'Medellin',1,-75.56868,6.292313,30
+    Robledo                                 ',53,'Medellin',1,-75.59252,6.278858,11
+    Doce de Octubre                         ',54,'Medellin',1,-75.5792,6.299323,32
+    Rural Caldas',55,'Caldas',4,-75.62707,6.053974,66
+    Urbana Caldas                           ' ,56,'Caldas',4,-75.63321,6.07658,24
+    Rural La Estrella                       ' ,57,'La Estrella',9,-75.65846,6.14221,50
+    Bello-Comuna 02                         ',58,'Bello',3,-75.56136,6.317372,28
+    Buenos Aires                            ',59,'Medellin',1,-75.5529,6.23149,15
+    La Candelaria                           ' ,60,'Medellin',1,-75.56808,6.247719,19
+    Villa Hermosa                           ',61,'Medellin',1,-75.54412,6.24754,20
+    Rural Girardota                          ' ,62,'Girardota',7,-75.44836,6.380775,41
+    Urbana Girardota                        ',63,'Girardota',7,-75.4433,6.380888,27
+    Corregimiento Santa Elena               ' ,64,'Medellin',1,-75.51665,6.234823,47
+    Popular                                 ',65,'Medellin',1,-75.5442,6.293636,31
+    Itagui-Comuna 03                        ',66,'Itagui',8,-75.63346,6.169564,4
